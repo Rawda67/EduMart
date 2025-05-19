@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636689377850",
+    "project_id": "edumart-fe5db",
+    "storage_bucket": "edumart-fe5db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636689377850:android:0187337a8380c1082be303",
+        "android_client_info": {
+          "package_name": "com.example.edu_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC86W1FQhUFk-tE0dY1OtpP-Sz97ImFJ90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
